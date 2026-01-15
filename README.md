@@ -27,3 +27,11 @@ Dataset is not included due to size and licensing constraints.
 
 ## Tech Stack
 Python, OpenCV, Machine Learning, Computer Vision
+
+## Requirements
+- Python 3.x
+- OpenCV
+- TensorFlow / Keras
+- NumPy
+- Jupyter Notebook<br>
+Bash command " pip install opencv-python numpy tensorflow "
